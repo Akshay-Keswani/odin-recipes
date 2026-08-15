@@ -1,2 +1,26 @@
-# odin-recipes
-A simple recipe website built with HTML as part of my web development practice. This project showcases basic HTML structure, headings, images, links, lists, and recipe content. It was created to practice and strengthen my foundational HTML skills.
+# Recipe Website 🍳
+
+A simple recipe website built using **HTML** as part of my web development practice.
+
+## About
+
+This project is a beginner-friendly recipe website created to practice the fundamentals of HTML, including:
+
+- Headings and paragraphs
+- Images
+- Links
+- Ordered and unordered lists
+- Basic page structure
+- Recipe ingredients and instructions
+
+## Technologies Used
+
+- HTML5
+
+## Purpose
+
+This project was created while learning and practicing HTML fundamentals through hands-on web development.
+
+## Author
+
+Created as a practice project while learning web development.
